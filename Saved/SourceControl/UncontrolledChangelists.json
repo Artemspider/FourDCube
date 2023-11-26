@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/ThirdPerson/Blueprints/Cubic/BP_Color_basic.uasset",
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/ThirdPerson/Blueprints/Cubic/BP_Main_Body.uasset",
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H6/3RVNG9AA6630VQNLURCBNZ.uasset",
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/ThirdPerson/Blueprints/Cubic/BP_SideMass.uasset",
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/ThirdPerson/Blueprints/Cubic/BP_Color_Green.uasset",
+				"C:/Users/user/Documents/Unreal Projects/FourDCube/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
